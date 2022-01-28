@@ -37,8 +37,19 @@
     width: 100%;
     height: 100%;
 }
-
-
+.ss{
+    margin-top: -50px;
+}
+.HV:hover{
+    background: #1269fa;
+    color: #fff;
+}
+.HV:hover fa{
+    color: #fff;
+}
+.fa{
+    font-size: 25px;
+}
 
 
 @media(max-width: 576px){
