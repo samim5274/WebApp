@@ -22,6 +22,9 @@
     background-image: url('../img/bg (15).jpg');
     background-size: cover;
 }
+#showcase h2{
+    color: #ffffff;
+}
 #homeicon .fa{
     font-size: 50px;
 }
@@ -41,6 +44,37 @@
     height: 100%;
     width: 100%;
 }
+#getstarted .dark-overly h3{
+    color: #ffffff;
+}
+#home-video{
+    background-image: url('../img/bg (18).jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 250px;
+    position: relative;
+}
+#home-video .dark-overly{
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+#home-video .dark-overly .fa{
+    font-size: 50px;
+}
+#home-video .dark-overly h2{
+    color: #ffffff;
+}
+#gallary img{
+    min-height: 300px;
+}
+
+
+
 
 
 
