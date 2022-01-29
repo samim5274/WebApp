@@ -1,0 +1,43 @@
+
+.navbar{
+    background: #000;
+}
+
+.nav-item{
+    padding-left: 1em;
+    text-transform: uppercase;
+}
+.carousel-item{
+    height: 450px;
+}
+.carousel-img-1 {
+    background-image: url('../img/bg (3).jpg');
+    background-size: cover;
+}
+.carousel-img-2 {
+    background-image: url('../img/bg (8).jpg');
+    background-size: cover;
+}
+.carousel-img-3 {
+    background-image: url('../img/bg (15).jpg');
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px){
+    .nav-item{
+        padding-left:0 !important;
+    } 
+}
+@media (max-width: 480px){
+    .TS h2{
+              font-size: 2.5rem;          
+    }
+}
